@@ -5,3 +5,8 @@
 3. Training data used is same as under Naive Bayes Classifier under NLP Project Repository.
 4. Run classifier.py with input data as command line argument.
 5. Got 95% accuracy.
+
+## RNN-POS Tagger
+1. Tagged Italian, Japanese and surprise language using sequence to sequence model using TensorFlow.
+2. Used Bidirectional LSTM to get better accuracy.
+3. Got 96% accuracy for Japanese and Italian languages.
